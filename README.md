@@ -108,7 +108,7 @@ I enjoy building practical systems, improving workflows with code, and turning r
 - Increased annual funding by **150%**
 - Collaborated with multiple university departments
 
-**Committee Member – Student Opportunity Fund**
+**Committee Member – Student Opportunity Fund**  
 *Aug 2024 – May 2025*
 - Reviewed student funding applications
 - Ensured alignment with university engagement goals
