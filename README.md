@@ -84,7 +84,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 ---
 
 ### 🤖 AI Customer Service Platform
-**Dec 2025 – Feb 2026**
+*Dec 2025 – Feb 2026*
 
 > Unified omnichannel support platform with an embedded real-time AI agent for SMB teams
 
@@ -100,7 +100,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 ---
 
 ### 👗 AI Virtual Closet App
-**Oct 2025 – Dec 2025**
+*Oct 2025 – Dec 2025*
 
 > AI-powered wardrobe platform with smart outfit generation and virtual try-on
 
@@ -117,7 +117,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 ---
 
 ### 📱 Phone Inspection Web App
-**Jul 2025 – Aug 2025**
+*Jul 2025 – Aug 2025*
 
 > Full-stack automation system for multi-station phone inspection workflows
 
@@ -132,6 +132,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 ---
 
 ### 🏦 Bank Simulation System
+*Nov 2023 – Dec 2023*
 
 > Priority queue-based discrete event simulation for customer flow modeling
 
@@ -146,6 +147,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 ---
 
 ### 🌍 Global Immunization Data Explorer (WHO)
+*Nov 2022 – Dec 2022*
 
 > Python search engine over 40+ years of WHO global immunization records
 
@@ -192,7 +194,6 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 # Leadership
 
 ### President, Muslim Students Association  
-**Missouri State University**  
 *Jan 2024 – Jan 2026*
 
 - Led a **200+ member** student organization and expanded membership by over **170%**  
@@ -202,8 +203,7 @@ My projects include LLM-based applications such as a real-time AI agent assist p
 
 ---
 
-### Committee Member, Student Opportunity Fund  
-**Missouri State University**  
+### Committee Member, Student Opportunity Fund   
 *Aug 2024 – May 2025*
 
 - Reviewed student funding applications to evaluate alignment with university engagement goals  
