@@ -1,220 +1,175 @@
-<h1 align="center">Salim Ba Mehriz</h1>
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1kZ3Y2MTRta3h1ZW1tOTh4czIzdDRiM2U4dHp3ZWFqOXUyZXA0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="">
 
-<p align="center">
-B.A.Sc. Computer Science · Minor in Cybersecurity<br>
-Missouri State University · Springfield, MO · Expected Dec 2026
-</p>
+## About Me
 
-<p align="center">
-<em>Interested in: AI Engineering · Software Engineering · Data Science</em>
-</p>
+I'm a Computer Science student at Missouri State University, mostly working on AI systems and full-stack software. I train small language models from scratch and route requests across different providers, then build the web apps that sit on top of them.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/salim-ba-mehriz-959139276">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:BamehrizSalim@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/SBamehriz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+- 🤖 &nbsp;LLM applications using RAG, multi-agent setups and provider routing
+- ⚙️ &nbsp;Full-stack builds in React, FastAPI, Node.js and Spring Boot
+- 📊 &nbsp;Data and model work in Python with PyTorch, Pandas and NumPy
+- 🔧 &nbsp;Automation that takes manual steps out of real workflows
+- 🚀 &nbsp;Interested in AI engineering, software engineering and data science roles
 
-<p align="center">
-<img width="420" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1kZ3Y2MTRta3h1ZW1tOTh4czIzdDRiM2U4dHp3ZWFqOXUyZXA0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
-</p>
+<br clear="both">
 
----
+<br>
 
-# About Me
-
-Computer Science student at Missouri State University with interests in AI systems, software engineering, and data-driven applications. I enjoy developing projects that combine modern AI models with full-stack systems to explore practical solutions to real-world problems.
-
-My projects include LLM-based applications such as a real-time AI agent assist platform, an autonomous customer service agent, and an AI-powered wardrobe recommendation system. I also work on automation tools and data-focused projects using Python and cloud-hosted infrastructure.
-
-- 🤖 Develop LLM-based applications using OpenAI API and Gemini API  
-- ⚙️ Build full-stack systems using React, Spring Boot, Python, and cloud platforms  
-- 📊 Work with data using Python tools such as Pandas and NumPy  
-- 🔧 Create automation systems that streamline workflows and reduce manual processes  
-- 🚀 Interested in AI engineering, software engineering, and data science roles  
-
----
-
-# Tech Stack
+## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI & Cloud**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=FFFFFF)
 
-**Tools**
+**AI & Machine Learning**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0D1117?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=for-the-badge)
 
----
+**Tools & Cloud**
 
-# Projects
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=FFFFFF)
+![Twilio](https://img.shields.io/badge/Twilio-0D1117?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0D1117?style=for-the-badge)
 
----
+<br>
 
-### 🤖 AI Customer Service Platform
-*Dec 2025 – Feb 2026*
+## Projects
 
-> Unified omnichannel support platform with an embedded real-time AI agent for SMB teams
+### LLM Builder Platform
 
-- Built a single support dashboard integrating **phone, SMS, WhatsApp** (via Twilio) and **email** (via Google Workspace)
-- Developed **Tap AI**, a real-time agent assist feature powered by the OpenAI API that listens to live calls and generates response suggestions using company policies stored in a Supabase knowledge base
-- Engineered an **autonomous AI agent** that handles customer queries across all channels, grounded in company documentation to deliver consistent responses at scale
+`Aug 2026 – Present` &nbsp; ![Active](https://img.shields.io/badge/%E2%97%8F%20Active-1BAF7A?style=flat-square&labelColor=0D1117)
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> It's hard to tell which part of a training set actually helped the model. This runs that experiment locally: train small GPT models from scratch on data mixtures you control, then read the per-bucket validation curves to see what each bucket did.
 
----
+- Built the whole data path, from raw `txt` / `md` / `html` / `pdf` / `jsonl` uploads through deterministic parsing, cleaning, per-document quality stats and exact-hash deduplication, into frozen tokenized dataset builds that keep a held-out validation slice for every bucket
+- Trained GPT-style decoder-only models from scratch, 2.9M to 33.9M parameters, on weighted and phased-curriculum data mixtures. Each run executes as a supervised child process, so a long GPU job never blocks the interface and it survives an application restart
+- Added live telemetry and evaluation: train loss, per-bucket validation loss, perplexity and bits-per-byte, custom prompt eval sets, side-by-side run comparison and a sampling playground
+- Benchmarked three architecture presets on a 4 GB consumer GPU (104K / 95K / 34K tokens per second) to work out how big an experiment that hardware can actually hold. 118 server tests and 8 web tests run under GitHub Actions CI
 
-### 👗 AI Virtual Closet App
-*Oct 2025 – Dec 2025*
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
 
-> AI-powered wardrobe platform with smart outfit generation and virtual try-on
+### AI Model Router
 
-- Users upload clothing via photo, product link, or QR code, and the **Gemini API** automatically tags each item by color, category, brand, and style
-- Built an **AI styling engine** that generates outfit combinations and occasion-based recommendations
-- Developed a **virtual try-on** feature that renders AI outfit previews on a personalized avatar modeled from the user's body and face
-- Designed an in-app shop surfacing personalized product recommendations with an affiliate-based revenue model
+`Mar 2026 – May 2026`
 
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+> Providers differ on cost, latency and what they are good at. This sits between the application and the providers, so the model choice happens in one place instead of being hard-coded all over a codebase.
 
----
+- Built the app on a React frontend, a Node.js REST API and a Supabase database, routing each request to the best model for it by cost, latency and capability
+- Wrote one provider abstraction layer so the application code never touches a provider SDK directly, which means switching between OpenAI, Anthropic and Gemini leaves the rest of the app alone
+- Added Boost, a multi-agent feature where several models work on one request together. A manager model hands each part of the task to whichever model handles it best, then combines their output into one final answer
+- Put together a developer interface for benchmarking routing performance and comparing latency and cost across providers
 
-### 📱 Phone Inspection Web App
-*Jul 2025 – Aug 2025*
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=FFFFFF)
 
-> Full-stack automation system for multi-station phone inspection workflows
+### AI Customer Service Platform
 
-- Automated end-to-end inspection flow across scanning and photographing stations, increasing throughput by **40%+**
-- IMEI-based device tracking automatically creates and updates inspection records as devices move through stations
-- Automated Excel reporting via **Pandas**, embedding cloud-hosted photo links organized by order number and removing manual documentation entirely
+`Dec 2025 – Feb 2026`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-000?style=flat-square&logo=stackshare&logoColor=white)
+> Support work gets split across tickets, live conversations and whatever documentation the company keeps somewhere else. This puts them in one place and adds an AI assist layer on top.
 
----
+- Built the application on React, FastAPI and a PostgreSQL relational database, with REST APIs and data-ingest services for tickets, conversations and a knowledge base
+- Developed Tap AI, a RAG agent-assist feature that pulls the relevant company documentation and suggests responses in real time
+- Added vector search over the knowledge base so generated responses stay grounded in real company documentation
+- Automated builds, tests and deploys with a GitHub Actions CI/CD pipeline, and kept the setup and API documentation current to keep the project reliable
 
-### 🏦 Bank Simulation System
-*Nov 2023 – Dec 2023*
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-> Priority queue-based discrete event simulation for customer flow modeling
+### AI Virtual Closet App
 
-- Designed a simulation engine using custom priority queue data structures to model arrival and departure events
-- Built an analytics layer for tracking wait times and queue performance metrics
-- Improved team delivery efficiency by **30%** through structured Git collaboration
+`Oct 2025 – Dec 2025`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+> People's clothes end up scattered across photos, product links and shopping history. This gets the wardrobe into one place and builds outfits from what someone already owns.
 
----
+- Built a multimodal ingestion pipeline that takes clothing in through photo upload, product-link parsing or QR scanning
+- Added AI auto-tagging that classifies each item by color, category and style, which is what keeps the wardrobe organized
+- Wrote the recommendation logic that puts together personalized outfits from an existing wardrobe
+- Prototyped a virtual try-on preview that shows a generated outfit on a personalized avatar
 
-### 🌍 Global Immunization Data Explorer (WHO)
-*Nov 2022 – Dec 2022*
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-> Python search engine over 40+ years of WHO global immunization records
+### Phone Inspection Web App
 
-- Built advanced filtering for cross-country, multi-year insight extraction
-- Made decades of public health data accessible and queryable for non-technical users
+`Jul 2025 – Aug 2025` &nbsp; [![View Code](https://img.shields.io/badge/View%20Code-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/SBamehriz/Phone-Inspection-Web-App-Demo)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-2C8EBB?style=flat-square&logo=googlecolab&logoColor=white)
+> A phone inspection process running across several stations (scan, photograph, record, report) on spreadsheets and manual coordination between them.
 
----
+- Automated the inspection workflow end to end across the scanning and photography stations, which raised throughput by 40% and removed manual data entry
+- Built IMEI-based device tracking that creates inspection records in real time, organized by order number
+- Generated Excel reports automatically with Pandas, with cloud photo links embedded, so inspection documentation stays consistent and can be analyzed later
+- Shipped the workflow as a full-stack TypeScript web application covering both inspection stations
 
-# Experience
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFFFFF)
 
-### Desk Assistant  
-**Missouri State University · Residence Life, Housing & Dining Services**  
-*Aug 2025 – Present*
+<br>
 
-- Serve as primary point of contact for residents and visitors, handling inquiries and daily front desk communication  
-- Manage mail distribution, item checkouts, and record organization using desk management software  
-- Support emergency response procedures and facility coordination  
+<details>
+<summary><b>Earlier projects</b></summary>
 
----
+<br>
 
-### Administrative Assistant  
-**Missouri State University · Planning, Design & Construction**  
-*Jun 2024 – Jan 2025*
+**Bank Simulation System** &nbsp;·&nbsp; `Nov 2023 – Dec 2023`<br>
+Discrete-event simulation of customer flow through a bank. Arrival and departure events run on custom priority queue data structures, and an analytics layer tracks wait times and queue performance metrics.
 
-- Managed project documentation and records supporting campus construction operations  
-- Updated internal databases, website posts, and social media with weekly project summaries and site photos, increasing engagement by **25%**  
-- Processed pay applications, affidavits, lien waivers, and payroll documentation  
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 
----
+**Global Immunization Data Explorer** &nbsp;·&nbsp; `Nov 2022 – Dec 2022`<br>
+Python search tool over 40+ years of WHO global immunization records. Cross-country and multi-year filtering lets someone without a technical background query decades of public health data.
 
-### Property Manager  
-**Al-Wed Real Estate Company · Jeddah, Saudi Arabia**  
-*May 2020 – Jan 2023*
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFFFFF)
 
-- Managed lease agreements, payments, and operations across multiple residential properties  
-- Resolved tenant issues and streamlined lease renewal processes  
-
----
-
-# Leadership
-
-### President, Muslim Students Association  
-*Jan 2024 – Jan 2026*
-
-- Led a **200+ member** student organization and expanded membership by over **170%**  
-- Increased annual funding by **150%** through strategic outreach and proposals  
-- Collaborated with **5 university departements** to coordinate campus events and community service initiatives
-- Strengthened campus presence and improved student engagement  
-
----
-
-### Committee Member, Student Opportunity Fund   
-*Aug 2024 – May 2025*
-
-- Reviewed student funding applications to evaluate alignment with university engagement goals  
-
----
-
-# Coursework
-
-`Data Structures & Algorithms` · `Databases` · `Operating Systems` · `Web Development` · `Data Science` · `Artificial Intelligence` · `Software Quality Assurance`
-
----
-
-<div align="center">
-</div>
+</details>
